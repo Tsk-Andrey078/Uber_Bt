@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".subtitle {\n    font-family: Roboto;\n    font-size: 17px;\n    font-weight: normal;\n    font-stretch: normal;\n    font-style: normal;\n    line-height: 1.24;\n    letter-spacing: normal;\n    text-align: center;\n    color: #222; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACN,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,MAAM;EACnB,YAAY,EAAE,MAAM;EACpB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,MAAM;EACtB,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,IAAI;CAAG"
+}
